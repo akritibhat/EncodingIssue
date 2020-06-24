@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="US-ASCII" ?>
+<testsuite errors="0" failures="0" tests="1" hostname="f240fd5211a2" name="compiler/arguments/CheckCompileThresholdScaling.java" time="5.814" timestamp="2020-01-02T19:23:12+0000">
+    <properties>
+        <property name="keywords" value="bug8059604 driver" />
+        <property name="library" value="/test/lib" />
+        <property name="modules" value="java.base/jdk.internal.misc java.management" />
+        <property name="run" value="USER_SPECIFIED driver compiler.arguments.CheckCompileThresholdScaling
+" />
+        <property name="source" value="CheckCompileThresholdScaling.java" />
+        <property name="title" value="Add CompileThresholdScaling flag to control when methods are first compiled (with +/-TieredCompilation)" />
+        <property name="description" value="file:/codebuild/output/src033/src/s3/00/test/hotspot/jtreg/compiler/arguments/CheckCompileThresholdScaling.java" />
+        <property name="elapsed" value="5814 0:00:05.814" />
+        <property name="end" value="Thu Jan 02 19:23:18 UTC 2020" />
+        <property name="environment" value="regtest" />
+        <property name="execStatus" value="Passed. Execution successful" />
+        <property name="harnessLoaderMode" value="Classpath Loader" />
+        <property name="harnessVariety" value="Full Bundle" />
+        <property name="hostname" value="f240fd5211a2" />
+        <property name="javatestOS" value="Linux 4.14.152-98.182.amzn1.x86_64 (amd64)" />
+        <property name="javatestVersion" value="6.0" />
+        <property name="jtregVersion" value="jtreg 4.2 dev 398" />
+        <property name="modules" value="java.base/jdk.internal.misc java.management" />
+        <property name="script" value="com.sun.javatest.regtest.exec.RegressionScript" />
+        <property name="sections" value="script_messages build compile driver" />
+        <property name="start" value="Thu Jan 02 19:23:12 UTC 2020" />
+        <property name="test" value="compiler/arguments/CheckCompileThresholdScaling.java" />
+        <property name="testJDK" value="/codebuild/output/src033/src/s3/00/images/jdk" />
+        <property name="totalTime" value="5816" />
+        <property name="user.name" value="root" />
+        <property name="work" value="/codebuild/output/src033/src/s3/00/jtreg/work/compiler/arguments" />
+    </properties>
+    <testcase classname="compiler/arguments/CheckCompileThresholdScaling.java" name="CheckCompileThresholdScaling" time="5.814" >
+    </testcase>
+    <system-out>    </system-out>
+    <system-err>    </system-err>
+</testsuite>
